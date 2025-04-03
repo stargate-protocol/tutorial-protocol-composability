@@ -57,6 +57,13 @@ Execute cross-chain transfer of `ETH` from `Optimism Sepolia` to `Ethereum Sepol
 make et
 ```
 
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Stargate on GitHub](https://github.com/stargate-protocol): View our open source platform and contribute.
+- [Discord builders community](https://discord.com/channels/903022426856755220/1313128694273020027): Chat with thirdweb devs and ask questions.
+
 
 
 
