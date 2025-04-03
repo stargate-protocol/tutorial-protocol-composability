@@ -7,9 +7,6 @@ This tutorial demonstrates cross-chain DeFi composability using Stargate Finance
 1. Bridges ETH from Optimism Sepolia to Ethereum Sepolia
 2. Automatically deposits received tokens into Aave on the destination chain
 
-1. Transfering `ETH` tokens from `Optimism Sepolia` to `Ethereum Sepolia` using `Stargate`
-2. Automatically depositing the received tokens into `Aave` on the destination chain
-
 This pattern can be adapted for various cross-chain use cases and integrated with other DeFi protocols.
 
 ## Getting Started
