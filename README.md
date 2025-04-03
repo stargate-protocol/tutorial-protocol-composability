@@ -2,10 +2,10 @@
 
 ![Stargate Finance](https://stargate.finance/static/og-image.jpg)
 
-This tutorial demonstrates how to leverage composability with `Stargate Finance` protocol. 
-You'll learn how to build a smart contract that bridges assets across different chains and then interacts with other DeFi protocols - specifically depositing the transfered assets into `Aave`.
+This tutorial demonstrates cross-chain DeFi composability using Stargate Finance. The example smart contract:
 
-The example contract showcases cross-chain composability by:
+1. Bridges ETH from Optimism Sepolia to Ethereum Sepolia
+2. Automatically deposits received tokens into Aave on the destination chain
 
 1. Transfering `ETH` tokens from `Optimism Sepolia` to `Ethereum Sepolia` using `Stargate`
 2. Automatically depositing the received tokens into `Aave` on the destination chain
