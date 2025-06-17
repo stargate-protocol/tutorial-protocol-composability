@@ -1,6 +1,6 @@
 # Tutorial Protocol Composability
 
-![Stargate Finance](https://stargate.finance/static/og-image.jpg)
+![Stargate Protocol Composability](public/Github_banner_cnab.jpg)
 
 This tutorial demonstrates cross-chain DeFi composability using Stargate Finance. The example smart contract:
 
